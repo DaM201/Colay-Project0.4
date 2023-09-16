@@ -21,3 +21,8 @@ Then Open a **Command Prompt** in the Directory Where **Colay** is Located.
  ```
  python colay.py -Pr "help" 
  ```
+# Installation Colay to Linux
+First Install Tool **Git**
+```
+sudo apt install git
+```
