@@ -24,5 +24,28 @@ Then Open a **Command Prompt** in the Directory Where **Colay** is Located.
 # Installation Colay to Linux
 First Install Tool **Git**
 ```
-sudo apt install git
+sudo apt install python3 gitbhjh
 ```
+
+https://github.com/DaM201/Colay-Project0.4/assets/68821652/1b7fa4d6-17ef-476a-a20c-51c771ce2882
+
+Then Install **Colay**
+```
+git clone https://github.com/DaM201/Colay-Project0.4
+```
+Open Directory Where **Colay** is Located.
+
+ ```
+ python colay.py -Pr "help" 
+ ```
+
+# Installation Colay to Termux
+
+
+
+https://github.com/DaM201/Colay-Project0.4/assets/68821652/2c3f3609-3daa-4d58-ab74-ac3fa0851f1f
+
+
+
+https://github.com/DaM201/Colay-Project0.4/assets/68821652/e5833cc3-ca41-4750-860d-dc55cd5fd423
+
